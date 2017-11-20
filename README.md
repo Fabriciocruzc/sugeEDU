@@ -11,4 +11,14 @@ Se no caso o seu sistema operacional for o linux execute o seguinte comando no s
 
      - $ sudo apt-get install apache2
 
-Depois de instalar o servidor faça o download do programa Mysql WorkBench em seu computador.
+Depois de instalar o servidor faça o download do programa Mysql WorkBench em seu computador. Linkin do download a baixo:
+
+https://dev.mysql.com/downloads/workbench/
+
+Logo apois você executar todos esses requisitos seu computador esta ponto para roda o sistema. 
+
+Para que o sistema executa em seu computador você deve baixalo por completo. Depois verifique se dentro daspasatas be, ielmo-marinho/emjvsl/clas a pagina conexão.php está compativel com local, usuário, senha e banco do seu servidor local.
+
+    - $ con mysqli_connect("localhost", "root", "", "emjvsl_im")or die("Erro na conexão");
+    
+Dpois execute o banco emjvsl_im e sugeedu no Mysql WorkBench. E com isso o sistema vai está rodando sem seu conputador!
