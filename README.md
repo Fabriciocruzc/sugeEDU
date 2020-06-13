@@ -17,7 +17,7 @@ https://dev.mysql.com/downloads/workbench/
 
 Logo apois você executar todos esses requisitos seu computador esta ponto para roda o sistema. 
 
-Para que o sistema execute em seu computador você deve baixalo por completo. Depois verifique se dentro das pasatas bd, ielmo-marinho/emjvsl/clas a página conexão.php está compativel com local, usuário, senha e banco do seu servidor local.
+Para que o sistema execute em seu computador você deve baixa-lo por completo. Depois verifique se dentro das pastas bd, ielmo-marinho/emjvsl/clas a página conexão.php está compativel com local, usuário, senha e banco do seu servidor local.
 
     - $ con mysqli_connect("localhost", "root", "", "emjvsl_im")or die("Erro na conexão");
     
